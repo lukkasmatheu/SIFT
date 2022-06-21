@@ -1,0 +1,9 @@
+Para executar o algoritmo é nescessario verificar o caminho relativo dos 
+arquivos dentro do sift.m dependendo do sistema operacional os caminhos devem
+utilizar barra '/' ou '\'.
+A pasta sift deve possuir acesso de escrita e leitura de arquivos.
+as imagens de resultado serão salvos na pasta de Saida
+as imagens de entrada a ser comparados com o objeto devem estar na pasta 
+ImagensEntrada e ser no formato .jpg
+A imagem com o objeto a ser comparada deve estar na pasta Raiz ./SIFT e estar
+nomeada como principal2 ou alterar para o nome que desejar no arquivo sift.m
